@@ -9,7 +9,7 @@ public void printPattern(){
           System.out.print(num +" ");
           num++;
       }
-      system.out.println();
+      System.out.println();
   }
 
 }
